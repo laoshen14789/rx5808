@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=BAT-1
+Added Pin To Net: NetName=GND Pin=POWER-4
+Added Pin To Net: NetName=GND Pin=POWER-5
+Added Pin To Net: NetName=GND Pin=PWR-1
+Added Member To Class: ClassName=Sheet1 Member=Component KEY1 UP

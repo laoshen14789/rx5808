@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY2-1
+Added Pin To Net: NetName=GND Pin=KEY2-1
+Added Pin To Net: NetName=NetAT328P_25 Pin=R6-2
+Added Pin To Net: NetName=NetCD4066_2 Pin=R10-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=RX5808 1-6
+Added Net: Name=NetR5_2

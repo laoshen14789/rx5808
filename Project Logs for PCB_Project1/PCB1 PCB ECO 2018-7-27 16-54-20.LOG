@@ -1,0 +1,203 @@
+Added Component: Designator=AT328P(328p - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BAT(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CD4066(SOL-14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DS1(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS2(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS3(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=KEY1(KEY_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KEY2(KEY_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KEY3(KEY_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OLED(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT(SIP3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=POWER(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWR(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RX5808 1(rx5808)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RX5808 2(rx5808)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=AT328P-30
+Added Pin To Net: NetName=+5 Pin=CD4066-14
+Added Pin To Net: NetName=+5 Pin=OLED-2
+Added Pin To Net: NetName=+5 Pin=POWER-1
+Added Pin To Net: NetName=+5 Pin=RX5808 1-5
+Added Pin To Net: NetName=+5 Pin=RX5808 2-5
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=AT328P-4
+Added Pin To Net: NetName=GND Pin=AT328P-29
+Added Pin To Net: NetName=GND Pin=CD4066-7
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=DS2-2
+Added Pin To Net: NetName=GND Pin=DS3-2
+Added Pin To Net: NetName=GND Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY2-1
+Added Pin To Net: NetName=GND Pin=KEY2-1
+Added Pin To Net: NetName=GND Pin=KEY3-1
+Added Pin To Net: NetName=GND Pin=KEY3-1
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=GND Pin=OUT-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=RX5808 1-4
+Added Pin To Net: NetName=GND Pin=RX5808 1-9
+Added Pin To Net: NetName=GND Pin=RX5808 1-10
+Added Pin To Net: NetName=GND Pin=RX5808 1-12
+Added Pin To Net: NetName=GND Pin=RX5808 1-13
+Added Pin To Net: NetName=GND Pin=RX5808 1-14
+Added Pin To Net: NetName=GND Pin=RX5808 2-4
+Added Pin To Net: NetName=GND Pin=RX5808 2-9
+Added Pin To Net: NetName=GND Pin=RX5808 2-10
+Added Pin To Net: NetName=GND Pin=RX5808 2-12
+Added Pin To Net: NetName=GND Pin=RX5808 2-13
+Added Pin To Net: NetName=GND Pin=RX5808 2-14
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAT328P_5 Pin=AT328P-5
+Added Pin To Net: NetName=NetAT328P_5 Pin=KEY1-2
+Added Pin To Net: NetName=NetAT328P_5 Pin=KEY1-2
+Added Net: Name=NetAT328P_5
+Added Pin To Net: NetName=NetAT328P_6 Pin=AT328P-6
+Added Pin To Net: NetName=NetAT328P_6 Pin=KEY2-2
+Added Pin To Net: NetName=NetAT328P_6 Pin=KEY2-2
+Added Net: Name=NetAT328P_6
+Added Pin To Net: NetName=NetAT328P_7 Pin=AT328P-7
+Added Pin To Net: NetName=NetAT328P_7 Pin=KEY3-2
+Added Pin To Net: NetName=NetAT328P_7 Pin=KEY3-2
+Added Net: Name=NetAT328P_7
+Added Pin To Net: NetName=NetAT328P_10 Pin=AT328P-10
+Added Pin To Net: NetName=NetAT328P_10 Pin=R10-2
+Added Net: Name=NetAT328P_10
+Added Pin To Net: NetName=NetAT328P_12 Pin=AT328P-12
+Added Pin To Net: NetName=NetAT328P_12 Pin=R11-2
+Added Net: Name=NetAT328P_12
+Added Pin To Net: NetName=NetAT328P_13 Pin=AT328P-13
+Added Pin To Net: NetName=NetAT328P_13 Pin=R9-2
+Added Net: Name=NetAT328P_13
+Added Pin To Net: NetName=NetAT328P_14 Pin=AT328P-14
+Added Pin To Net: NetName=NetAT328P_14 Pin=R8-2
+Added Net: Name=NetAT328P_14
+Added Pin To Net: NetName=NetAT328P_15 Pin=AT328P-15
+Added Pin To Net: NetName=NetAT328P_15 Pin=R7-2
+Added Net: Name=NetAT328P_15
+Added Pin To Net: NetName=NetAT328P_16 Pin=AT328P-16
+Added Pin To Net: NetName=NetAT328P_16 Pin=R1-1
+Added Net: Name=NetAT328P_16
+Added Pin To Net: NetName=NetAT328P_19 Pin=AT328P-19
+Added Pin To Net: NetName=NetAT328P_19 Pin=CD4066-5
+Added Pin To Net: NetName=NetAT328P_19 Pin=R3-1
+Added Net: Name=NetAT328P_19
+Added Pin To Net: NetName=NetAT328P_20 Pin=AT328P-20
+Added Pin To Net: NetName=NetAT328P_20 Pin=CD4066-13
+Added Pin To Net: NetName=NetAT328P_20 Pin=R2-1
+Added Net: Name=NetAT328P_20
+Added Pin To Net: NetName=NetAT328P_23 Pin=AT328P-23
+Added Pin To Net: NetName=NetAT328P_23 Pin=OLED-4
+Added Net: Name=NetAT328P_23
+Added Pin To Net: NetName=NetAT328P_24 Pin=AT328P-24
+Added Pin To Net: NetName=NetAT328P_24 Pin=OLED-3
+Added Net: Name=NetAT328P_24
+Added Pin To Net: NetName=NetAT328P_25 Pin=AT328P-25
+Added Pin To Net: NetName=NetAT328P_25 Pin=R6-2
+Added Pin To Net: NetName=NetAT328P_25 Pin=RX5808 2-6
+Added Net: Name=NetAT328P_25
+Added Pin To Net: NetName=NetBAT_1 Pin=BAT-1
+Added Net: Name=NetBAT_1
+Added Pin To Net: NetName=NetBAT_2 Pin=BAT-2
+Added Net: Name=NetBAT_2
+Added Pin To Net: NetName=NetCD4066_1 Pin=CD4066-1
+Added Pin To Net: NetName=NetCD4066_1 Pin=RX5808 1-8
+Added Net: Name=NetCD4066_1
+Added Pin To Net: NetName=NetCD4066_2 Pin=CD4066-2
+Added Pin To Net: NetName=NetCD4066_2 Pin=CD4066-3
+Added Pin To Net: NetName=NetCD4066_2 Pin=OUT-3
+Added Net: Name=NetCD4066_2
+Added Pin To Net: NetName=NetCD4066_4 Pin=CD4066-4
+Added Pin To Net: NetName=NetCD4066_4 Pin=RX5808 2-8
+Added Net: Name=NetCD4066_4
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R1-2
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetDS2_1 Pin=R2-2
+Added Net: Name=NetDS2_1
+Added Pin To Net: NetName=NetDS3_1 Pin=DS3-1
+Added Pin To Net: NetName=NetDS3_1 Pin=R3-2
+Added Net: Name=NetDS3_1
+Added Pin To Net: NetName=NetOUT_2 Pin=OUT-2
+Added Pin To Net: NetName=NetOUT_2 Pin=R10-1
+Added Pin To Net: NetName=NetOUT_2 Pin=R11-1
+Added Net: Name=NetOUT_2
+Added Pin To Net: NetName=NetPOWER_3 Pin=POWER-3
+Added Pin To Net: NetName=NetPOWER_3 Pin=PWR-2
+Added Net: Name=NetPOWER_3
+Added Pin To Net: NetName=NetPOWER_4 Pin=POWER-4
+Added Pin To Net: NetName=NetPOWER_4 Pin=PWR-1
+Added Net: Name=NetPOWER_4
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=RX5808 1-6
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=RX5808 1-3
+Added Pin To Net: NetName=NetR7_1 Pin=RX5808 2-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=RX5808 1-2
+Added Pin To Net: NetName=NetR8_1 Pin=RX5808 2-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=RX5808 1-1
+Added Pin To Net: NetName=NetR9_1 Pin=RX5808 2-1
+Added Net: Name=NetR9_1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

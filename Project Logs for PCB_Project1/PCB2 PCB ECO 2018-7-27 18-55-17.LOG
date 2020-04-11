@@ -1,0 +1,16 @@
+Added Component: Designator=SMA1(SMA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SMA2(SMA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=SMA1-1
+Added Pin To Net: NetName=GND Pin=SMA1-3
+Added Pin To Net: NetName=GND Pin=SMA2-1
+Added Pin To Net: NetName=GND Pin=SMA2-3
+Added Pin To Net: NetName=NetRX5808 1_11 Pin=RX5808 1-11
+Added Pin To Net: NetName=NetRX5808 1_11 Pin=SMA1-2
+Added Net: Name=NetRX5808 1_11
+Added Pin To Net: NetName=NetRX5808 2_11 Pin=RX5808 2-11
+Added Pin To Net: NetName=NetRX5808 2_11 Pin=SMA2-2
+Added Net: Name=NetRX5808 2_11
+Added Member To Class: ClassName=Sheet1 Member=Component SMA1
+Added Member To Class: ClassName=Sheet1 Member=Component SMA2

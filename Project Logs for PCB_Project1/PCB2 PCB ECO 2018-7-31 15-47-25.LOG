@@ -1,0 +1,11 @@
+Added Component: Designator=CD4066(4066)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCD4066_1 Pin=CD4066-1
+Added Pin To Net: NetName=NetCD4066_2 Pin=CD4066-2
+Added Pin To Net: NetName=NetCD4066_2 Pin=CD4066-3
+Added Pin To Net: NetName=NetCD4066_4 Pin=CD4066-4
+Added Pin To Net: NetName=NetAT328P_19 Pin=CD4066-5
+Added Pin To Net: NetName=GND Pin=CD4066-7
+Added Pin To Net: NetName=NetAT328P_20 Pin=CD4066-13
+Added Pin To Net: NetName=+5 Pin=CD4066-14
+Added Member To Class: ClassName=Sheet1 Member=Component CD4066

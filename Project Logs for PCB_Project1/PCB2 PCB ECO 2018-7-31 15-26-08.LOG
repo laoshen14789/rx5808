@@ -1,0 +1,9 @@
+Added Component: Designator=POWER(power)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=NetPOWER_3 Pin=POWER-3
+Added Pin To Net: NetName=GND Pin=POWER-4
+Added Pin To Net: NetName=GND Pin=POWER-5
+Added Pin To Net: NetName=NetBAT_2 Pin=POWER-6
+Added Member To Class: ClassName=Sheet1 Member=Component POWER

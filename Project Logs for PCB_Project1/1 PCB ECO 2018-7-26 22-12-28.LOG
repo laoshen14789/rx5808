@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=CD4066-7
+Removed Pin From Net: NetName=GND Pin=CD4066-8
+Removed Pin From Net: NetName=NetAT328P_20 Pin=CD4066-9
+Added Pin To Net: NetName=GND Pin=CD4066-7
+Added Pin To Net: NetName=NetAT328P_20 Pin=CD4066-13
+Added Pin To Net: NetName=+5 Pin=CD4066-14
